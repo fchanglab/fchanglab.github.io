@@ -1,0 +1,222 @@
+<HTML>
+<HEAD>
+<meta NAME="KeyWords" CONTENT="microbiology, columbia, cell research, yeast research, Fred Chang, ph.d. microbiology">
+<meta NAME="Description" CONTENT="The Chang lab studies how cells divide and grow and aims to contribute to our understanding how cells are assembled.  ">
+<TITLE>The Chang Lab: Cell Size</TITLE>
+	<link REL="StyleSheet" TYPE="text/css" HREF="chang-projects.css"> 
+
+	<META NAME="generator" CONTENT="BBEdit 5.1.1">
+</HEAD>
+
+<BODY>
+
+
+<TABLE WIDTH=800 BORDER="0" CELLPADDING="0" CELLSPACING="0">
+
+<TR><TD VALIGN="middle">
+<TABLE BORDER="0" WIDTH="800" CELLSPACING="0" CELLPADDING="0">
+
+
+ <TR><TD>
+      <TABLE BORDER="0" WIDTH="765" CELLSPACING="0" CELLPADDING="0">
+   	<TR>
+	<TD ROWSPAN=3>
+			<IMG SRC="./images/ucsf_logo.png" ALT="Columbia University" WIDTH=139 HEIGHT=140 hspace=0 BORDER="0"></TD>
+		<TD ROWSPAN=3 align=left>
+			<IMG SRC="./images/projects_03.jpg" ALT="Fred Chang Lab"WIDTH=374 HEIGHT=155 hspace=0 BORDER="0"></TD>
+			
+		<TD COLSPAN=3 ALIGN="RIGHT">
+			<IMG SRC="./images/projects_04.gif" ALT="Welcome" WIDTH=252 HEIGHT=105 hspace=0 BORDER="0"></TD>
+    </TR>
+	<TR>
+		<TD  ALIGN="RIGHT">
+			<A HREF="../contact/index-contact.html"><IMG SRC="./images/projects_06.gif" WIDTH=83 HEIGHT=26 hspace=0 BORDER="0"></A></TD>
+		<TD   ALIGN="RIGHT">
+			<A HREF="../funstuff/index-funstuff.html"><IMG SRC="./images/projects_07.gif" WIDTH=84 HEIGHT=26 hspace=0 BORDER="0"></A></TD>
+		<TD  ALIGN="RIGHT">
+			<A HREF="../lablinks/index-lablinks.html"><IMG SRC="./images/projects_08.gif" WIDTH=85 HEIGHT=26 hspace=0 BORDER="0"></A></TD>
+	</TR>
+	<TR>
+		<TD  ALIGN="center">
+	<IMG SRC="../images/whitedot.gif" ALT="white_spacer" WIDTH="1" HEIGHT="25" BORDER="0" ALIGN="middle">
+	</TD></TR>
+	</TABLE>
+ </TD></TR>
+
+   <TR><TD ALIGN="CENTER" valign=top align="left">
+	<TABLE BORDER="0" WIDTH="765" CELLSPACING="0" CELLPADDING="0"  ALIGN="left" valign="top">
+    	<TR>
+    	
+    	<TD ALIGN="left" valign=top>
+    			<TABLE BORDER="0" WIDTH="139" CELLSPACING="0" CELLPADDING="0">
+    			<TR><TD ALIGN="left" VALIGN="middle">
+    				<TABLE BORDER="0" WIDTH="100%" CELLSPACING="0" CELLPADDING="0">
+    				<TR><TD ALIGN="left" VALIGN="middle" bgcolor="#ffe5cc"><IMG SRC="./images/spacer.gif" WIDTH="139" HEIGHT="37" BORDER="0" ALIGN="middle">
+    				</TD></TR>
+    				<TR><TD ALIGN="left" VALIGN="middle">
+    				
+    				
+    				
+    				<TABLE BORDER="0" WIDTH="100%" CELLSPACING="0" CELLPADDING="0" align="left">
+					
+					<TR><TD ALIGN="left" VALIGN="middle"> 
+					<IMG SRC="../images/whitedot.gif" WIDTH="1" HEIGHT="8" HSPACE="0" VSPACE="0" BORDER="0" ALIGN="middle"></TD></TR>
+					
+					<TR><TD ALIGN="left" VALIGN="middle""><div class="nav"><A HREF="../index.html" class=nav>HOME</A></div></TD></TR>
+					
+					<TR><TD ALIGN="left" VALIGN="middle"><div class="nav"><A HREF="index-projects.html" class=nav><B>Projects</B></A></div></TD></TR>
+					<TR><TD ALIGN="right" VALIGN="top" bgcolor="#ffe5cc">
+					
+						<TABLE BORDER="0" WIDTH="87%" VALIGN="top" CELLSPACING="2" CELLPADDING="0">
+    					<TR><TD ALIGN="left" VALIGN="top"><div class="subnav"><A HREF="cytokinesis.html" class=subnav>Cytokinesis</A></div></TD></TR>
+    					<TR><TD ALIGN="left" VALIGN="top"><div class="subnav"><A HREF="actin and polarity.html" class=subnav>Actin and Polarity</A></div></TD></TR>
+						<TR><TD ALIGN="left" VALIGN="top"><div class="subnav"><A HREF="microtubules.html" class=subnav>Microtubules</A></div></TD></TR>
+						<TR><TD ALIGN="left" VALIGN="top"><div class="subnav"><A HREF="cellshape.html" class=subnav>Cell Shape</A></div></TD></TR>
+						<TR><TD ALIGN="left" VALIGN="top"><div class="subnav"><B>Cell Size</B></div></TD></TR>
+						
+    					</table>
+    				 
+    				</TD></TR>
+					
+					 
+					
+					
+					<TR><TD ALIGN="left" VALIGN="middle"><div class="nav"><A HREF="../publications/index-publications.html" class=nav>Publications</A></div></TD></TR>
+					
+					<TR><TD ALIGN="left" VALIGN="middle"><div class="nav"><A HREF="../movies/index-movies.html" class=nav>Movies</A></div></TD></TR>
+					<TR><TD ALIGN="left" VALIGN="middle"><div class="nav"><A HREF="../people/index-people.html" class=nav>People</A></div></TD></TR>
+				
+					</TABLE>
+    				
+    				
+    				</TD></TR>
+       				</TABLE>
+    			
+    			</TD></TR>
+       			</TABLE>
+		</TD>
+       	<TD ALIGN="left" valign=top ALIGN="left">
+       			<TABLE BORDER="0" WIDTH="55" CELLSPACING="0" CELLPADDING="0" ALIGN="left">
+       			<TR><TD ALIGN="left" VALIGN="middle">
+       			
+       			<TABLE BORDER="0" WIDTH="55" CELLSPACING="0" CELLPADDING="0" ALIGN="left">
+    				<TR><TD ALIGN="left" VALIGN="middle" bgcolor="#ffe5cc">
+    				<IMG SRC="./images/spacer.gif" WIDTH="55" HEIGHT="37" BORDER="0" ALIGN="middle">
+    				</TD></TR>
+    				<TR><TD ALIGN="left" VALIGN="top"> 
+    				<IMG SRC="../images/whitedot.gif" WIDTH="55" HSPACE="0" VSPACE="0" BORDER="0" ALIGN="middle">
+    				</TD></TR>
+       				</TABLE>
+       			
+       			
+       			</TD></TR>
+       			</TABLE>
+		</TD>
+      		 <TD ALIGN="left" valign=top>
+      		 <TABLE BORDER="0" WIDTH="570" CELLSPACING="0" CELLPADDING="0">
+      		 <TR><TD ALIGN="left" VALIGN="middle">
+      		 
+      		 	<TABLE BORDER="0" WIDTH="570" CELLSPACING="0" CELLPADDING="0">
+					<TR>
+
+					<TD ALIGN="left" VALIGN="middle" rowspan="2"> <IMG SRC="./images/project_headers/cell_size.png" ALT="projects" WIDTH="151" HEIGHT="101" HSPACE="0" VSPACE="0" BORDER="0" ALIGN="middle"></TD>
+					<TD ALIGN="left" VALIGN="top" bgcolor="#ffe5cc"> <IMG SRC="./images/spacer.gif" WIDTH="419" HEIGHT="37" HSPACE="0" VSPACE="0" BORDER="0" ALIGN="middle"></TD>
+					</TR>
+					<TR>
+					<TD ALIGN="left" VALIGN="middle"> <IMG SRC="../images/whitedot.gif" WIDTH="419" HEIGHT="64" HSPACE="0" VSPACE="0" BORDER="0" ALIGN="middle"></TD>
+					</TR>
+					
+				</TABLE>
+      		 
+      		 </TD></TR>
+      		 <TR><TD ALIGN="left" VALIGN="middle">
+      		 
+      		 <TABLE BORDER="0" WIDTH="80%" CELLSPACING="0" CELLPADDING="0">
+					<TR>
+
+<TD ALIGN="left" VALIGN="middle">
+<P>
+<BR>
+<P>
+How cell size is specified remains one of the fundamental mysteries in cell biology.  Proliferating cells need to coordinate cell division with cell growth so they do not get too big or small. One mode in which cells may achieve size homeostasis is by dividing only when they have obtained a minimal cell size. A central unanswered question is: how do cells sense their own size?  
+<P>
+The fission yeast <I>Schizosaccharomyces pombe</I> is a powerful model for studying cell size control.  These rod-shaped cells grow to 14 &plusmn; 1 &micro;m long before entering mitosis.  By studying cells with different widths, we discovered that cells enter mitosis at a defined surface area, rather than a certain cell volume, mass or length (<a href="http://www.ncbi.nlm.nih.gov/pubmed/24642412">Pan et al, Elife 2014</a>).  This leads to a model in which cells sense their size by monitoring the extent of their surface area for this decision. 
+<P> <IMG SRC="./images/cdr2_pom1.png" align="right"/>
+What might be the &quot;sizer?&quot;  A conserved pathway of protein kinases that regulate mitotic entry and cell size control has been identified: these include Cdr2, which inhibits Wee1, which inhibits Cdk1/ Cyclin B. Our best candidate sizer is Cdr2.  Cdr2 is a dose dependent activator of mitotic entry.  It is a peripheral membrane protein that binds to all over the cortex and accumulates at cortical protein clusters known as &quot;nodes,&quot; which are located in a broad band at the medial cortex overlying the nucleus.  (These are the same node structures that also include Mid1 involved in cytokinesis).  Intriguingly, the number of Cdr2 nodes scales with cell size. We have proposed a quantitative model in which properties of Cdr2 allow it to sense cell size (<a href="http://www.ncbi.nlm.nih.gov/pubmed/24642412">Pan et al, Elife 2014</a>).  As cells reach a critical size, the number of nodes increases to a level that is sufficient to trigger mitotic entry. 
+<P>
+Regulators of Cdr2 include the protein kinase Pom1, which forms gradients from the cell tips (<a href="http://www.ncbi.nlm.nih.gov/pubmed/17140794?dopt=AbstractPlus">Padte et al., 2006</a>; <a href="http://www.ncbi.nlm.nih.gov/pubmed/22342545">Saunders et al., 2012</a>), and the nucleus, which helps to position the nodes.  Ongoing studies include characterizing the nature of these dynamic node structures on the membrane, investigating how they form and then signal to downstream cell cycle regulators, and development of quantitative models for cell size control.   
+<P>
+This work represents a collaboration of the labs of Fred Chang and Martin Howard and is funded by a joint grant from the BBSRC/ NSF foundations. 
+<P><BR>
+					</TD>
+					</TR>
+				</TABLE>
+      		 
+      		 </TD></TR>
+     		  </TABLE>
+		</TD>
+	</TR>
+   
+   </TABLE>
+  </TD></tr>
+	
+	
+
+
+<TR>	
+		
+<TD ALIGN="CENTER" VALIGN="bottom">
+
+<TABLE BORDER="0" WIDTH="100%" CELLSPACING="0" CELLPADDING="0" ALIGN="CENTER"  VALIGN="bottom">
+<TR>
+
+<TD ALIGN="middle"  VALIGN="bottom">
+
+<TABLE BORDER="0" WIDTH="100%" CELLSPACING="3" CELLPADDING="0" ALIGN="center" VALIGN="bottom">
+
+
+<TR>
+<TD ALIGN="CENTER" COLSPAN="9" VALIGN="BOTTOM">
+<IMG SRC="../images/black_dot.gif" ALT="spacer" WIDTH="780" HEIGHT="1" BORDER="0" ALIGN="left" VALIGN="bottom">
+</TD></TR>
+
+<TR>
+<TD ALIGN="center" width="11%"><div class="bottom"><A HREF="../index.html" class=bottom>HOME</A></div></TD>
+<TD ALIGN="center" width="11%"><div class="bottomme">PROJECTS</div></TD>
+<TD ALIGN="center" width="11%"><div class="bottom"><A HREF="../publications/index-publications.html" class=bottom>PUBLICATIONS</A></div></TD>
+<TD ALIGN="center" width="10%"><div class="bottom"><A HREF="../movies/index-movies.html" class=bottom>MOVIES</A></div></TD>
+<TD ALIGN="center" width="10%"><div class="bottom"><A HREF="../people/index-people.html" class=bottom>PEOPLE</A></div></TD>
+<TD ALIGN="center" width="15%"><IMG SRC="./images/spacer.gif" WIDTH="1" HEIGHT="1" HSPACE="15" VSPACE="0" BORDER="0" ALIGN="middle"></TD>
+<TD ALIGN="center" width="10%"><div class="bottom"><A HREF="../contact/index-contact.html" class=bottom>CONTACT US</A></div></TD>
+<TD ALIGN="center" width="11%"><div class="bottom"><A HREF="../funstuff/index-funstuff.html" class=bottom>FUNSTUFF</A></div></TD>
+<TD ALIGN="center" width="10%"><div class="bottom"><A HREF="../lablinks/index-lablinks.html" class=bottom>LAB LINKS</A></div></TD>
+
+</TR>
+
+<TR>
+<TD ALIGN="CENTER" COLSPAN="9" VALIGN="BOTTOM">
+<IMG SRC="../images/black_dot.gif" ALT="spacer" WIDTH="780" HEIGHT="1" BORDER="0" ALIGN="left" VALIGN="bottom">
+</TD></TR>
+<TR>
+<TD ALIGN="CENTER" COLSPAN="9">
+ <P></TD></TR>
+
+</TABLE>
+
+
+</TD></TR>
+</TABLE></TD>
+
+
+
+</TR></TABLE>
+			
+	
+</TD>
+
+
+
+</TR></TABLE>
+			
+</BODY>
+</HTML>
